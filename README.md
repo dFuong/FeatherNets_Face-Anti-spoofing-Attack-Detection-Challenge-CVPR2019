@@ -1,4 +1,6 @@
-## FeatherNets for [Face Anti-spoofing Attack Detection Challenge@CVPR2019](https://competitions.codalab.org/competitions/20853#results)[1]
+# Inference image and webcam 
+
+## FeatherNets for [Face Anti-spoofing Attack Detection Challenge@CVPR2019](https://competitions.codalab.org/competitions/20853#results)
 
 ## The detail in our paper：[FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing](https://arxiv.org/pdf/1904.09290)
 
@@ -135,7 +137,7 @@ run EnsembledCode_val.ipynb
 ```
 ### for test
 ```
-run EnsembledCode_test.ipynb
+run test_image.py or test_cam.py
 ```
 **notice**:Choose a few models with large differences in prediction results
 
